@@ -1,0 +1,102 @@
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.csproj.AssemblyReference.cache
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.AssemblyInfoInputs.cache
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.AssemblyInfo.cs
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.csproj.CoreCompileInputs.cache
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.MvcApplicationPartsAssemblyInfo.cs
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.MvcApplicationPartsAssemblyInfo.cache
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\appsettings.Development.json
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\appsettings.json
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\exam.exe
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\exam.deps.json
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\exam.runtimeconfig.json
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\exam.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\exam.pdb
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\EntityFramework.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\System.Web.Http.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\System.CodeDom.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\staticwebassets.build.json
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\staticwebassets.development.json
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\scopedcss\bundle\exam.styles.css
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.csproj.CopyComplete
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\refint\exam.dll
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.pdb
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\exam.genruntimeconfig.cache
+D:\lp\kurs 3 term 1\exam\exam\exam\obj\Debug\net6.0\ref\exam.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\appsettings.Development.json
+D:\exam\exam\exam\exam\bin\Debug\net6.0\appsettings.json
+D:\exam\exam\exam\exam\bin\Debug\net6.0\exam.exe
+D:\exam\exam\exam\exam\bin\Debug\net6.0\exam.deps.json
+D:\exam\exam\exam\exam\bin\Debug\net6.0\exam.runtimeconfig.json
+D:\exam\exam\exam\exam\bin\Debug\net6.0\exam.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\exam.pdb
+D:\exam\exam\exam\exam\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\EntityFramework.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\System.Web.Http.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\System.CodeDom.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\exam\exam\exam\exam\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.csproj.AssemblyReference.cache
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.AssemblyInfoInputs.cache
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.AssemblyInfo.cs
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.csproj.CoreCompileInputs.cache
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.MvcApplicationPartsAssemblyInfo.cs
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.MvcApplicationPartsAssemblyInfo.cache
+D:\exam\exam\exam\exam\obj\Debug\net6.0\staticwebassets.build.json
+D:\exam\exam\exam\exam\obj\Debug\net6.0\staticwebassets.development.json
+D:\exam\exam\exam\exam\obj\Debug\net6.0\scopedcss\bundle\exam.styles.css
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.csproj.CopyComplete
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.dll
+D:\exam\exam\exam\exam\obj\Debug\net6.0\refint\exam.dll
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.pdb
+D:\exam\exam\exam\exam\obj\Debug\net6.0\exam.genruntimeconfig.cache
+D:\exam\exam\exam\exam\obj\Debug\net6.0\ref\exam.dll
